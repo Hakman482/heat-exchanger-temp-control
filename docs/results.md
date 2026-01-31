@@ -20,7 +20,7 @@ This baseline demonstrates why control is necessary: the disturbance has a direc
 ## 2) PI feedback: tuned vs untuned
 The tuned PI improves the transient response compared to the untuned case.
 
-![Tuned vs untuned PI](media/plot_tuned_vs_untuned_PI.png)
+![Tuned vs untuned PI](media/plot_tuned_vs_untuned.png)
 
 **Qualitative comparison**
 - **Untuned PI**: larger overshoot and more oscillatory transient before settling.
