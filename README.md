@@ -47,7 +47,7 @@ Feedforward handles predictable disturbance effects; feedback corrects model mis
 ![Tuned vs Untuned PI](docs/media/plot_tuned_vs_untuned.png)
 
 ### Feedforward delay sensitivity (20.3s vs 25.3s)
-![FF delay sweep](docs/media/plot_ff_delay_sweep.png)
+![FF delay sweep](docs/media/ffdelay_comp.png)
 
 ### Combined control response
 ![Combined response](docs/media/plot_combined.png)
