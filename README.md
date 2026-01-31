@@ -1,6 +1,5 @@
-# heat-exchanger-temp-control
-
 # Heat Exchanger Temperature Control (Simulink)
+
 Model-based temperature control design for a heat exchanger using:
 - Open-loop FOPDT + dead time modelling
 - PI feedback control (tuned vs untuned comparison)
@@ -61,7 +60,6 @@ Feedforward handles predictable disturbance effects; feedback corrects model mis
 ## 4) How to Run
 1. Open the Simulink models in `/sim`
 2. Run simulations and view scopes/plots
-3. (Optional) Export plots to `/docs/media` for documentation
 
 **Requirements**
 - MATLAB R2025b
